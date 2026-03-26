@@ -18,6 +18,7 @@
 https://www.instagram.com/ayush.parmar02?igsh=MXI4b3huMzMzemdjOA==
 https://www.facebook.com/ayussh.parmar?mibextid=ZbWKwL
 https://youtube.com/@xayushparmar776?si=DKss3NH4CD_U0OVs
+https://www.kaggle.com/ayushparmar02
 https://www.apvisuals.top/
 
 ---
