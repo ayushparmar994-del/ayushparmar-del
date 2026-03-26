@@ -1,12 +1,11 @@
 # ayushparmar-del
-# Hi, I'm Ayush Parmar 👋
+# Hi, 👋I'm Ayush Parmar 
 
 🎓 int.M.Tech Data Science Student (1st Year)  
 🏫 VIT Bhopal University  
 
 💡 I am interested in learning Python, Data Science, and Machine Learning.  
 🚀 I want to build real-world projects and improve my coding skills.
-# Hi 👋, I'm ayush parmar
 
 ### 👨‍💻 About Me:
 - 📱 I’m currently working on **small project**.
@@ -27,17 +26,17 @@ https://www.apvisuals.top/
 **Languages & Frameworks:**
 <p align="left">
   <img src="https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-</p>
+  
 
 ---
 
 ### 📊 GitHub Stats:
-
+https://github.com/ayushparmar994-del
+https://github.com/ayushparmar994-del/vit-college
+https://github.com/ayushparmar994-del/Digital-Literacy
 
 ### 🏆 GitHub Trophies:
 
